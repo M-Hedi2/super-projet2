@@ -15,7 +15,9 @@ p{
 
 body{
     height: 100vh;
-    background: yellow;
+
+    background: salmon;
+
     color: white;
 }
 
@@ -23,7 +25,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 10px;
+    padding: 40px 40px;
 }
  nav ul {
     display: flex;
