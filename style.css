@@ -15,7 +15,9 @@ p{
 
 body{
     height: 100vh;
+
     background: salmon;
+
     color: white;
 }
 
@@ -23,7 +25,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 50px;
+    padding: 20px 10px;
 }
  nav ul {
     display: flex;
@@ -83,7 +85,7 @@ h1{
 
 button{
     border: none;
-    background: rgb(97, 97, 236);
+    background: rgb(97, 236, 176);
     color: white;
     width: 150px;
     padding: 10px;
